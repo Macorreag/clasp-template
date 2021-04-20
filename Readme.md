@@ -16,7 +16,11 @@ npm install -g @google/clasp
 ```
 
 create src directory and clone your script
-https://catalogo-vpfe.dian.gov.co/document/searchqr?documentkey=1eb341e80afb97367f78af3739d35f4c5a6026a145f6b2678d464b694f64d3f82c6b563efbf7f9a90dc9f6d33586c5c0
+
+```
+mkdir src
+```
+
 ```
  clasp clone "SCRIPT-ID" --rootDir src
  ```
