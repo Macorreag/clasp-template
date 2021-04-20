@@ -20,6 +20,11 @@ create src directory and clone your script
 ```
 mkdir src
 ```
+Autocomplete with vscode 
+```
+npm i -S @types/google-apps-script   
+```
+
 
 ```
  clasp clone "SCRIPT-ID" --rootDir src
