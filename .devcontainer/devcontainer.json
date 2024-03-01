@@ -12,5 +12,8 @@
 				"oouo-diogo-perdigao.docthis"
 			]
 		}
-	}
+	},
+	"postCreateCommand": "npm install -g @google/clasp",
+	"updateContentCommand": "npm install",
+	"postStartCommand": ""
 }
