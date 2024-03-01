@@ -9,7 +9,8 @@
 		"vscode": {
 			"extensions": [
 				"wayou.vscode-todo-highlight",
-				"oouo-diogo-perdigao.docthis"
+				"oouo-diogo-perdigao.docthis",
+				"dbaeumer.vscode-eslint"
 			]
 		}
 	},

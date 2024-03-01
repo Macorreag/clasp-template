@@ -38,3 +38,8 @@ npm i -S @types/google-apps-script
     ```
     clasp push -w
     ```
+
+## Features
+
+- Autocomplete for classes of Google Apps Script in VSCode
+![Autocomplete for classes of Google Apps Script in VSCode](autocomplete.png)
