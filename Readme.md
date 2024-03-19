@@ -28,10 +28,10 @@ npm i -S @types/google-apps-script
 Primero ingrese a la carpeta src, que es donde se va a alojar su proyecto de Clasp
 
 ```
- clasp clone "SCRIPT-ID"
+ clasp clone "SCRIPT-ID" --rootDir .
  ```
 
-> Cuando lo clona el no trackeara el archivo .claspignore
+> Cuando lo clona el no trackeara el archivo .claspignore, pero omitira los archivos definidos en este archivo.
 
  Para verificar los archivos de un proyecto existente use:
  ```
