@@ -27,7 +27,7 @@ npm i -S @types/google-apps-script
 
 
 ```
- clasp clone "SCRIPT-ID" --rootDir src
+ clasp clone "SCRIPT-ID" --rootDir ./src
  ```
 
  ## How to use 
