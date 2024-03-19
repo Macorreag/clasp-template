@@ -25,12 +25,22 @@ Autocomplete with vscode
 npm i -S @types/google-apps-script   
 ```
 
+Primero ingrese a la carpeta src, que es donde se va a alojar su proyecto de Clasp
 
 ```
- clasp clone "SCRIPT-ID" --rootDir ./src
+ clasp clone "SCRIPT-ID"
+ ```
+
+> Cuando lo clona el no trackeara el archivo .claspignore
+
+ Para verificar los archivos de un proyecto existente use:
+ ```
+ clasp status
  ```
 
  ## How to use 
+
+ 
 
 - clasp push
 - clasp pull
