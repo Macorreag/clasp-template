@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "description": "This is a template for clasp projects",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
   "author": "Macorreag",
   "license": "ISC",
   "dependencies": {
