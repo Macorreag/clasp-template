@@ -1,11 +1,19 @@
 {
-  "name": "clasp-template",
+  "name": "google-apps-script-starter-template",
   "version": "1.0.0",
-  "description": "This is a template for clasp projects",
+  "description": "A starter template for Google Apps Script projects using clasp.",
   "main": "index.js",
   "scripts": {},
   "author": "Macorreag",
   "license": "ISC",
+  "keywords": [
+    "google-apps-script",
+    "clasp",
+    "starter-template",
+    "apps-script",
+    "howdy39",
+    "gas-clasp-starter"
+  ],
   "dependencies": {
     "@types/google-apps-script": "^1.0.31"
   }
